@@ -5,7 +5,7 @@ import os
 
 # Paths 
 
-ROOT          = r'C:\Users\danish\Desktop\pap_cell_project\data'
+ROOT          = r'C:\Users\danish\Desktop\pap_cell_classification\data'
 TRAIN_CSV     = os.path.join(ROOT, 'isbi2025-ps3c-train-dataset.csv')
 TRAIN_DIR     = os.path.join(ROOT, 'isbi2025-ps3c-train-dataset')
 TEST_DATA_DIR = os.path.join(ROOT, 'isbi2025-ps3c-test-dataset')
