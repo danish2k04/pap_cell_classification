@@ -1,0 +1,26 @@
+# Dataset
+data/isbi2025-ps3c-test-dataset/
+data/isbi2025-ps3c-train-dataset/
+data/*.csv
+data/*.7z
+
+# Python
+__pycache__/
+*.pyc
+
+# Large checkpoints
+data/checkpoint_model1_final.pth
+data/checkpoint_model2_final.pth
+*.pt
+*.ckpt
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Zip files
+data/*.zip
+data/*.Zip
